@@ -1,0 +1,15 @@
+{
+  "author": "taamsoftadmin",
+  "createdAt": "2024-01-23",
+  "homepage": "https://openai.tapapis.com",
+  "identifier": "GameSight2",
+  "manifest": "https://taamsoft.com/lobechat/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/game-sight/logo.webp",
+    "description": "Discover games, game-related content, get recommendations, and compare games based on player reviews.",
+    "tags": ["game", "search"],
+    "title": "TaamAi",
+    "category": "gaming-entertainment"
+  },
+  "schemaVersion": 1
+}
